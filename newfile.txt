@@ -1,2 +1,3 @@
 this is a test for git init and git status
 This is my second line
+this is my branch3 content
