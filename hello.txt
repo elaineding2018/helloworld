@@ -1,1 +1,3 @@
 this is a test for git init and git status
+
+Today is Oct.2nd . It is sunny outside.
